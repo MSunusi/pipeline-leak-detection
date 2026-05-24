@@ -356,15 +356,7 @@ This system can be applied in:
 
 Petroleum Engineer | AI Researcher | Computer Vision Developer
 
-### Research Interests
 
-- Computer Vision
-- Vision Language Models (VLMs)
-- Multimodal AI
-- AI for Energy Systems
-- Deep Learning
-- Industrial AI
-- Intelligent Monitoring Systems
 
 GitHub: https://github.com/MSunusi
 
