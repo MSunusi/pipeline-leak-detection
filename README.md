@@ -237,28 +237,13 @@ The model demonstrates strong detection capability suitable for practical deploy
 
 ---
 
-# Repository Structure
-
-```bash
-pipeline-leak-detection/
-│
-├── models/                  # Trained YOLO weights
-├── dataset/                 # Dataset files
-├── results/                 # Detection outputs
-├── app.py                   # Deployment application
-├── requirements.txt         # Dependencies
-├── README.md                # Documentation
-└── notebooks/               # Experiment notebooks
-```
-
----
 
 # Installation
 
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pipeline-leak-detection.git
+git clone https://github.com/MSunusi/pipeline-leak-detection.git
 ```
 
 Move into the project directory:
